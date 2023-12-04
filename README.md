@@ -10,23 +10,23 @@ Examples
 Contributing
 License
 # Features
-1. Network Configuration
+# 1. Network Configuration
 Easily configure network settings using intuitive and human-readable syntax. This feature allows users to define and manage network parameters effortlessly.
 # Example
 octanet configure --interface eth0 --ip 192.168.1.1 --subnet 255.255.255.0 --gateway 192.168.1.254
-2. Network Monitoring
+# 2. Network Monitoring
 Gain insights into network performance with comprehensive monitoring capabilities. Track bandwidth usage, analyze traffic patterns, and monitor device connectivity.
 # Example
 octanet monitor --interface eth0 --bandwidth --traffic --devices
-3. Security Auditing
+# 3. Security Auditing
 Enhance network security by conducting thorough audits. Identify vulnerabilities, check for open ports, and ensure your network is resilient against potential threats.
 # Example
 octanet audit --scan-vulnerabilities --check-ports --firewall-status
-4. Automation
+# 4. Automation
 Automate repetitive tasks and streamline network management workflows. Save time and reduce errors by scripting routine operations.
 # Example
 octanet automate --script automate_tasks.py
-5. RESTful API
+# 5. RESTful API
 Interact with the project programmatically using a RESTful API. Integrate OCTANET_DECEMBER_TASK1 into your existing applications or scripts seamlessly.
 # Example
 import requests
