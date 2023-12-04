@@ -39,12 +39,14 @@ git clone https://github.com/the-lasya-projects/OCTANET_DECEMBER_TASK1.git
 cd OCTANET_DECEMBER_TASK1
 pip install -r requirements.txt
 # Usage
-After installation, use the following command to start the OCTANET_DECEMBER_TASK1 application:
+## After installation, use the following command to start the OCTANET_DECEMBER_TASK1 application:
 
 python octanet.py
-For additional command-line options and parameters, refer to the help documentation:
+
+## For additional command-line options and parameters, refer to the help documentation:
 
 octanet --help
+
 # Examples
 ## Example 1: Configuring Network
 octanet configure --interface eth0 --ip 192.168.1.1 --subnet 255.255.255.0 --gateway 192.168.1.254
