@@ -40,8 +40,10 @@ cd OCTANET_DECEMBER_TASK1
 pip install -r requirements.txt
 # Usage
 After installation, use the following command to start the OCTANET_DECEMBER_TASK1 application:
+
 python octanet.py
 For additional command-line options and parameters, refer to the help documentation:
+
 octanet --help
 # Examples
 ## Example 1: Configuring Network
