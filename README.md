@@ -1,6 +1,7 @@
 # OCTANET_DECEMBER_TASK1
 # Overview
 OCTANET_DECEMBER_TASK1 is a powerful and flexible project that aims to address various tasks related to network management. Whether you are a network administrator, developer, or enthusiast, this project provides a set of robust features to streamline network operations and enhance your overall experience.
+![Screenshot 2023-12-04 131242](https://github.com/the-lasya-projects/OCTANET_DECEMBER_TASK1/assets/142709321/71cf29dc-3e94-46d5-bfa4-0d763c1a77be)
 
 # Table of Contents
 ## Features
