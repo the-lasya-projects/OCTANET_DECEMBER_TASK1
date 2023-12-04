@@ -3,11 +3,11 @@
 OCTANET_DECEMBER_TASK1 is a powerful and flexible project that aims to address various tasks related to network management. Whether you are a network administrator, developer, or enthusiast, this project provides a set of robust features to streamline network operations and enhance your overall experience.
 
 # Table of Contents
-Features
-Installation
-Usage
-Examples
-Contributing
+## Features
+## Installation
+## Usage
+## Examples
+## Contributing
 License
 # Features
 # 1. Network Configuration
